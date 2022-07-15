@@ -1,37 +1,37 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Changes</h1>
-    <p>Changes</p>
+    <h1>THIS IS A BIGGER CHANGE, TRUST ME</h1>
+    <p>THIS IS A BIGGER CHANGE, TRUST ME</p>
     <hr>
      
-    <label for="Name"><b>Changes</b></label>
-    <input type="text" placeholder="Changes" name="Name" id="Name" required>
+    <label for="Name"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
+    <input type="text" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Changes</b></label>
-    <input type="text" placeholder="Changes" name="mobile" id="mobile" required>
+    <label for="mobile"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
+    <input type="text" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Changes</b></label>
-    <input type="text" placeholder="Changes" name="email" id="email" required>
+    <label for="email"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
+    <input type="text" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Changes</b></label>
-    <input type="password" placeholder="Changes" name="psw" id="psw" required>
+    <label for="psw"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
+    <input type="password" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Changes</b></label>
-    <input type="password" placeholder="Changes" name="psw-repeat" id="psw-repeat" required>
+    <label for="psw-repeat"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
+    <input type="password" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By Changes</a>.</p>
-    <button type="submit" class="registerbtn">Changes</button>
+    <p>By THIS IS A BIGGER CHANGE, TRUST ME</a>.</p>
+    <button type="submit" class="registerbtn">THIS IS A BIGGER CHANGE, TRUST ME</button>
   </div>
   <div class="container signin">
-    <p>Changes? <a href="#">Changes!</a>.</p>
+    <p>THIS IS A BIGGER CHANGE, TRUST ME? <a href="#">THIS IS A BIGGER CHANGE, TRUST ME!</a>.</p>
   </div>
 
-   <h1> Changes, Changes! </h1>
+   <h1> THIS IS A BIGGER CHANGE, TRUST ME, THIS IS A BIGGER CHANGE, TRUST ME! </h1>
 
   
 </form>
