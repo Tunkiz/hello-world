@@ -20,7 +20,7 @@
     <input type="password" placeholder="*****" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
+    <label for="psw-repeat"><b>Repeat password</b></label>
     <input type="password" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
