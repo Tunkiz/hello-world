@@ -4,12 +4,12 @@
     <p>THIS IS A BIGGER CHANGE, Dummy</p>
     <hr>
      
-    <label for="Name"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
-    <input type="text" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="Name" id="Name" required>
+    <label for="Name"><b>Name</b></label>
+    <input type="text" placeholder="Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
-    <input type="text" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="mobile" id="mobile" required>
+    <label for="mobile"><b>Surname</b></label>
+    <input type="text" placeholder="Surname" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
