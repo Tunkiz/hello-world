@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>THIS IS A BIGGER CHANGE, TRUST ME</h1>
-    <p>THIS IS A BIGGER CHANGE, TRUST ME</p>
+    <h1>Hello Dummy</h1>
+    <p>THIS IS A BIGGER CHANGE, Dummy</p>
     <hr>
      
     <label for="Name"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
