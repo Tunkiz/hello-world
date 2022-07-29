@@ -28,7 +28,7 @@
     <button type="submit" class="registerbtn">THIS IS A BIGGER CHANGE, TRUST ME</button>
   </div>
   <div class="container signin">
-    <p>THIS IS A BIGGER CHANGE, TRUST ME? <a href="#">THIS IS A BIGGER CHANGE, TRUST ME!</a>.</p>
+    <p>register<a href="#">THIS IS A BIGGER CHANGE, TRUST ME!</a>.</p>
   </div>
 
    <h1> THIS IS A BIGGER CHANGE, TRUST ME, THIS IS A BIGGER CHANGE, TRUST ME! </h1>
