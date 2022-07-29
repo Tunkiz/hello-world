@@ -12,8 +12,8 @@
     <input type="text" placeholder="Surname" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>THIS IS A BIGGER CHANGE, TRUST ME</b></label>
-    <input type="text" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="email" id="email" required>
+    <label for="email"><b>email</b></label>
+    <input type="text" placeholder="email" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
@@ -21,7 +21,7 @@
     <br>
 
     <label for="psw-repeat"><b>Repeat password</b></label>
-    <input type="password" placeholder="THIS IS A BIGGER CHANGE, TRUST ME" name="psw-repeat" id="psw-repeat" required>
+    <input type="password" placeholder="password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
     <p>By THIS IS A BIGGER CHANGE, TRUST ME</a>.</p>
