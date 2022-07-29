@@ -24,7 +24,7 @@
     <input type="password" placeholder="password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
-    <p>By THIS IS A BIGGER CHANGE, TRUST ME</a>.</p>
+    <p>Hello dummy</a>.</p>
     <button type="submit" class="registerbtn">THIS IS A BIGGER CHANGE, TRUST ME</button>
   </div>
   <div class="container signin">
