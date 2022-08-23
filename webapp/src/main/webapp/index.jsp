@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New Change dummy</h1>
+    <h1>Changes are made everyday dummy</h1>
     <p>Tunkis Mabunda</p>
     <hr>
      
